@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Narnoor&display=swap");
+body {
+  color: lightgray;
+  background-color: #010409;
+  font-family: "Narnoor", serif;
+}
+
+header {
+  overflow: hidden;
+}
+
+header h1 {
+  float: left;
+}
+
+ul {
+  text-align: center;
+}
+ul li {
+  float: right;
+}

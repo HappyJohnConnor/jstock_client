@@ -1,0 +1,16 @@
+.searchBox {
+  margin: 1em 1em;
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #202e3c;
+  border-radius: 5px;
+}
+
+.stockList {
+  margin: 0 auto;
+  padding: 24px;
+  max-width: 1030px;
+  width: 100%;
+  @media screen and (max-width: 991px) {
+    padding: 0 16px;
+  }
+}
