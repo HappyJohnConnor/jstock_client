@@ -8,7 +8,7 @@ const InfoPane = ({
   stockCode: string;
   stock: { [key: string]: any };
 }) => {
-  const stockName = require("../JPX150.json")[stockCode];
+  const stockName = require("../assets/JPX150.json")[stockCode].name;
 
   const MainDiv = styled.div`
     padding: 24px;

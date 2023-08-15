@@ -8,7 +8,6 @@ export const useFetchStockData = (stock_idx: string) => {
   const [volumeAry, setVolumeAry] = useState<number[]>([]);
   const [dateAry, setDateAry] = useState<number[]>([]);
   const [stockData, setStockData] = useState<any>([]);
-  const [earnigns, setEarnings] = useState<{ [key: string]: number }[]>([]);
 
   useEffect(() => {
     let dates;

@@ -1,13 +1,13 @@
 import { ColumnDef } from "@tanstack/react-table";
 import { Link } from "react-router-dom";
 import { Stock } from "../types/Stock";
-const stocklist = require("../JPX150.json");
+const stocklist = require("../assets/JPX150.json");
 
 export function newStock(code: string, data: { [key: string]: number }[]) {
   try {
     return {
       code: code,
-      name: stocklist[code],
+      name: stocklist[code]["name"],
       current: data[0]["close"],
       previous:
         data.length > 1 ? data[0]["close"] - data[1]["close"] : undefined,

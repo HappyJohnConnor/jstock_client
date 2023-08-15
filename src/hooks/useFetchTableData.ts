@@ -2,8 +2,7 @@ import { useState, useEffect } from "react";
 import { fetchAllEarnings, fetchAllStock } from "../services/data.service";
 import { Stock } from "../types/Stock";
 import { EMADeviation, getRSI } from "../functions/table_data";
-
-const stockList = require("../JPX150.json");
+const stockList = require("../assets/JPX150.json");
 
 const rowData = (
   code: string,
@@ -12,7 +11,8 @@ const rowData = (
 ) => {
   return {
     code: code,
-    name: stockList[code],
+    name: stockList[code]["name"],
+    criteria: stockList[code]["criteria"],
     current: prices[0]["close"],
     previous:
       prices.length > 1 ? prices[0]["close"] - prices[1]["close"] : undefined,

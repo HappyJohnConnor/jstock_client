@@ -1,0 +1,862 @@
+{
+  "1911": {
+    "name": "住友林業",
+    "type": "建設業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "1925": {
+    "name": "大和ハウス工業",
+    "type": "建設業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "1928": {
+    "name": "積水ハウス",
+    "type": "建設業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "2127": {
+    "name": "日本Ｍ＆Ａセンターホールディングス",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "2175": {
+    "name": "エス・エム・エス",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "2267": {
+    "name": "ヤクルト本社",
+    "type": "食料品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "2371": {
+    "name": "カカクコム",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "2412": {
+    "name": "ベネフィット・ワン",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "2413": {
+    "name": "エムスリー",
+    "type": "サービス業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "2502": {
+    "name": "アサヒグループホールディングス",
+    "type": "食料品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "2503": {
+    "name": "キリンホールディングス",
+    "type": "食料品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "2587": {
+    "name": "サントリー食品インターナショナル",
+    "type": "食料品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "2801": {
+    "name": "キッコーマン",
+    "type": "食料品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "2802": {
+    "name": "味の素",
+    "type": "食料品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "2897": {
+    "name": "日清食品ホールディングス",
+    "type": "食料品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "2914": {
+    "name": "日本たばこ産業",
+    "type": "食料品",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "3038": {
+    "name": "神戸物産",
+    "type": "卸売業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "3064": {
+    "name": "ＭｏｎｏｔａＲＯ",
+    "type": "小売業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "3088": {
+    "name": "マツキヨココカラ＆カンパニー",
+    "type": "小売業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "3092": {
+    "name": "ＺＯＺＯ",
+    "type": "小売業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "3132": {
+    "name": "マクニカホールディングス",
+    "type": "卸売業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "3288": {
+    "name": "オープンハウスグループ",
+    "type": "不動産業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "3382": {
+    "name": "セブン＆アイ・ホールディングス",
+    "type": "小売業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "3626": {
+    "name": "ＴＩＳ",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "3659": {
+    "name": "ネクソン",
+    "type": "情報・通信業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "3697": {
+    "name": "ＳＨＩＦＴ",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "3765": {
+    "name": "ガンホー・オンライン・エンターテイメント",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "3769": {
+    "name": "ＧＭＯペイメントゲートウェイ",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "3774": {
+    "name": "インターネットイニシアティブ",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "4021": { "name": "日産化学", "type": "化学", "criteria": "ES", "other": "" },
+  "4063": {
+    "name": "信越化学工業",
+    "type": "化学",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "4091": {
+    "name": "日本酸素ホールディングス",
+    "type": "化学",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4151": {
+    "name": "協和キリン",
+    "type": "医薬品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4307": {
+    "name": "野村総合研究所",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "4324": {
+    "name": "電通グループ",
+    "type": "サービス業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4452": { "name": "花王", "type": "化学", "criteria": "PBR", "other": "" },
+  "4502": {
+    "name": "武田薬品工業",
+    "type": "医薬品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4503": {
+    "name": "アステラス製薬",
+    "type": "医薬品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4507": {
+    "name": "塩野義製薬",
+    "type": "医薬品",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "4519": {
+    "name": "中外製薬",
+    "type": "医薬品",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "4523": {
+    "name": "エーザイ",
+    "type": "医薬品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4528": {
+    "name": "小野薬品工業",
+    "type": "医薬品",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "4543": {
+    "name": "テルモ",
+    "type": "精密機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4568": {
+    "name": "第一三共",
+    "type": "医薬品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4578": {
+    "name": "大塚ホールディングス",
+    "type": "医薬品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4587": {
+    "name": "ペプチドリーム",
+    "type": "医薬品",
+    "criteria": "ES",
+    "other": ""
+  },
+  "4612": {
+    "name": "日本ペイントホールディングス",
+    "type": "化学",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4661": {
+    "name": "オリエンタルランド",
+    "type": "サービス業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4684": {
+    "name": "オービック",
+    "type": "情報・通信業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4686": {
+    "name": "ジャストシステム",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "4751": {
+    "name": "サイバーエージェント",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "4812": {
+    "name": "電通国際情報サービス",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "4901": {
+    "name": "富士フイルムホールディングス",
+    "type": "化学",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "4911": { "name": "資生堂", "type": "化学", "criteria": "PBR", "other": "" },
+  "4928": {
+    "name": "ノエビアホールディングス",
+    "type": "化学",
+    "criteria": "ES",
+    "other": ""
+  },
+  "4974": {
+    "name": "タカラバイオ",
+    "type": "化学",
+    "criteria": "ES",
+    "other": ""
+  },
+  "5019": {
+    "name": "出光興産",
+    "type": "石油・石炭製品",
+    "criteria": "ES",
+    "other": ""
+  },
+  "5108": {
+    "name": "ブリヂストン",
+    "type": "ゴム製品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "5384": {
+    "name": "フジミインコーポレーテッド",
+    "type": "ガラス・土石製品",
+    "criteria": "ES",
+    "other": ""
+  },
+  "5423": { "name": "東京製鐵", "type": "鉄鋼", "criteria": "ES", "other": "" },
+  "6028": {
+    "name": "テクノプロ・ホールディングス",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "6055": {
+    "name": "ジャパンマテリアル",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "6098": {
+    "name": "リクルートホールディングス",
+    "type": "サービス業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6146": {
+    "name": "ディスコ",
+    "type": "機械",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "6273": { "name": "ＳＭＣ", "type": "機械", "criteria": "PBR", "other": "" },
+  "6301": {
+    "name": "小松製作所",
+    "type": "機械",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6326": { "name": "クボタ", "type": "機械", "criteria": "PBR", "other": "" },
+  "6367": {
+    "name": "ダイキン工業",
+    "type": "機械",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6460": {
+    "name": "セガサミーホールディングス",
+    "type": "機械",
+    "criteria": "ES",
+    "other": ""
+  },
+  "6479": {
+    "name": "ミネベアミツミ",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6501": {
+    "name": "日立製作所",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6503": {
+    "name": "三菱電機",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6506": {
+    "name": "安川電機",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6526": {
+    "name": "ソシオネクスト",
+    "type": "電気機器",
+    "criteria": "ES",
+    "other": ""
+  },
+  "6532": {
+    "name": "ベイカレント・コンサルティング",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "6586": { "name": "マキタ", "type": "機械", "criteria": "PBR", "other": "" },
+  "6594": {
+    "name": "ニデック",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6645": {
+    "name": "オムロン",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6702": {
+    "name": "富士通",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6723": {
+    "name": "ルネサスエレクトロニクス",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6758": {
+    "name": "ソニーグループ",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6762": {
+    "name": "ＴＤＫ",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6857": {
+    "name": "アドバンテスト",
+    "type": "電気機器",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "6861": {
+    "name": "キーエンス",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6869": {
+    "name": "シスメックス",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6902": {
+    "name": "デンソー",
+    "type": "輸送用機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6920": {
+    "name": "レーザーテック",
+    "type": "電気機器",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "6954": {
+    "name": "ファナック",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6963": {
+    "name": "ローム",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6965": {
+    "name": "浜松ホトニクス",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6966": {
+    "name": "三井ハイテック",
+    "type": "電気機器",
+    "criteria": "ES",
+    "other": ""
+  },
+  "6967": {
+    "name": "新光電気工業",
+    "type": "電気機器",
+    "criteria": "ES",
+    "other": ""
+  },
+  "6981": {
+    "name": "村田製作所",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "6988": {
+    "name": "日東電工",
+    "type": "化学",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "7011": {
+    "name": "三菱重工業",
+    "type": "機械",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "7071": {
+    "name": "アンビスホールディングス",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "7211": {
+    "name": "三菱自動車工業",
+    "type": "輸送用機器",
+    "criteria": "ES",
+    "other": ""
+  },
+  "7269": {
+    "name": "スズキ",
+    "type": "輸送用機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "7272": {
+    "name": "ヤマハ発動機",
+    "type": "輸送用機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "7309": {
+    "name": "シマノ",
+    "type": "輸送用機器",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "7518": {
+    "name": "ネットワンシステムズ",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "7532": {
+    "name": "パン・パシフィック・インターナショナル",
+    "type": "小売業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "7701": {
+    "name": "島津製作所",
+    "type": "精密機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "7733": {
+    "name": "オリンパス",
+    "type": "精密機器",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "7735": {
+    "name": "ＳＣＲＥＥＮホールディングス",
+    "type": "電気機器",
+    "criteria": "ES",
+    "other": ""
+  },
+  "7741": {
+    "name": "ＨＯＹＡ",
+    "type": "精密機器",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "7751": {
+    "name": "キヤノン",
+    "type": "電気機器",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "7832": {
+    "name": "バンダイナムコホールディングス",
+    "type": "その他製品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "7951": {
+    "name": "ヤマハ",
+    "type": "その他製品",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "7974": {
+    "name": "任天堂",
+    "type": "その他製品",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "8001": {
+    "name": "伊藤忠商事",
+    "type": "卸売業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "8002": {
+    "name": "丸紅",
+    "type": "卸売業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "8031": {
+    "name": "三井物産",
+    "type": "卸売業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "8035": {
+    "name": "東京エレクトロン",
+    "type": "電気機器",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "8056": {
+    "name": "ＢＩＰＲＯＧＹ",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "8111": {
+    "name": "ゴールドウイン",
+    "type": "繊維製品",
+    "criteria": "ES",
+    "other": ""
+  },
+  "8113": {
+    "name": "ユニ・チャーム",
+    "type": "化学",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "8136": {
+    "name": "サンリオ",
+    "type": "卸売業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "8174": {
+    "name": "日本瓦斯",
+    "type": "小売業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "8267": {
+    "name": "イオン",
+    "type": "小売業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "8697": {
+    "name": "日本取引所グループ",
+    "type": "その他金融業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "8766": {
+    "name": "東京海上ホールディングス",
+    "type": "保険業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "8876": {
+    "name": "リログループ",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "8919": {
+    "name": "カチタス",
+    "type": "不動産業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "9005": { "name": "東急", "type": "陸運業", "criteria": "PBR", "other": "" },
+  "9020": {
+    "name": "東日本旅客鉄道",
+    "type": "陸運業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9021": {
+    "name": "西日本旅客鉄道",
+    "type": "陸運業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9042": {
+    "name": "阪急阪神ホールディングス",
+    "type": "陸運業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9101": {
+    "name": "日本郵船",
+    "type": "海運業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "9104": {
+    "name": "商船三井",
+    "type": "海運業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "9107": {
+    "name": "川崎汽船",
+    "type": "海運業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "9143": {
+    "name": "ＳＧホールディングス",
+    "type": "陸運業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "9201": {
+    "name": "日本航空",
+    "type": "空運業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9202": {
+    "name": "ＡＮＡホールディングス",
+    "type": "空運業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9432": {
+    "name": "日本電信電話",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "9433": {
+    "name": "ＫＤＤＩ",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "9434": {
+    "name": "ソフトバンク",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "9435": {
+    "name": "光通信",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "9449": {
+    "name": "ＧＭＯインターネットグループ",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "9602": {
+    "name": "東宝",
+    "type": "情報・通信業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9613": {
+    "name": "エヌ・ティ・ティ・データ",
+    "type": "情報・通信業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9684": {
+    "name": "スクウェア・エニックス・ホールディングス",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "9697": {
+    "name": "カプコン",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "9735": {
+    "name": "セコム",
+    "type": "サービス業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9744": {
+    "name": "メイテック",
+    "type": "サービス業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "9759": {
+    "name": "ＮＳＤ",
+    "type": "情報・通信業",
+    "criteria": "ES",
+    "other": ""
+  },
+  "9766": {
+    "name": "コナミグループ",
+    "type": "情報・通信業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9843": {
+    "name": "ニトリホールディングス",
+    "type": "小売業",
+    "criteria": "PBR",
+    "other": ""
+  },
+  "9983": {
+    "name": "ファーストリテイリング",
+    "type": "小売業",
+    "criteria": "ES",
+    "other": "両基準を満たす"
+  },
+  "1878": {
+    "name": "大東建託",
+    "type": "不動産業",
+    "criteria": "ES",
+    "other": ""
+  }
+}

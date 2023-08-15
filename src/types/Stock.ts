@@ -1,6 +1,7 @@
 export type Stock = {
   code: string;
   name: string;
+  criteria: "PBR" | "ES" | null;
   current: number;
   previous: number | undefined;
   volume: number;
