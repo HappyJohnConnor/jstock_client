@@ -10,7 +10,6 @@ export const useFetchStockData = (stock_idx: string) => {
   const [stockData, setStockData] = useState<any>([]);
 
   useEffect(() => {
-    let dates;
     getStockData(stock_idx, 5).then(
       (data) => {
         setStockData(data);

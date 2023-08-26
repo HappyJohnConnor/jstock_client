@@ -23,28 +23,17 @@ const SearchInput = styled.input`
 const StockList = () => {
   const [q, setQ] = useState("");
   const tableData = useFetchTableData();
-  const [criteria, setCriteria] = useState<null | "PBR" | "ES">(null);
+  const [criteria, setCriteria] = useState<null | "PBR" | "ES">("PBR");
 
-  const togglePBRTh = (value: number) => {
-    if (criteria !== "PBR" && value === 1) {
+  const toggleTable = (value: string) => {
+    if (criteria !== "PBR" && value === "PBR") {
       setCriteria("PBR");
-    } else if (criteria === "PBR" && value === 1) {
-      setCriteria(null);
-    } else if (criteria !== "ES" && value === 0) {
+    } else if (criteria !== "ES" && value === "ES") {
       setCriteria("ES");
-    } else if (criteria === "ES" && value === 0) {
-      setCriteria(null);
     }
   };
 
-  const middlePBR = () => {
-    const pbrs = tableData.map((row) => row["pbr"]);
-    pbrs.sort((x, y) => x - y);
-    return pbrs[Number(pbrs.length / 2)];
-  };
-
   const search = () => {
-    //const middle = middlePBR();
     return tableData.filter((row) => {
       if (criteria === null) {
         return String(row.code).indexOf(q) > -1 || row.name.indexOf(q) > -1;
@@ -67,13 +56,13 @@ const StockList = () => {
         <div>
           <PBHBtn
             className={`${criteria === "PBR" ? "selected" : "non-selected"}`}
-            onClick={() => togglePBRTh(1)}
+            onClick={() => toggleTable("PBR")}
           >
             PBR選定銘柄
           </PBHBtn>
           <PBHBtn
             className={`${criteria === "ES" ? "selected" : "non-selected"}`}
-            onClick={() => togglePBRTh(0)}
+            onClick={() => toggleTable("ES")}
           >
             ROE選定銘柄
           </PBHBtn>

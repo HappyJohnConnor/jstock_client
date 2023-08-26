@@ -4,11 +4,15 @@ table {
   border-collapse: collapse;
   border-left: none;
   border-right: none;
+  @media screen and (min-width: 1030px) {
+    width: 982px;
+  }
 }
+
 thead th {
   background-color: #0b0e11;
   border-bottom: 1px solid #30363d;
-  padding: 1em;
+  padding: 0.7em;
   position: sticky;
   top: 0;
   left: 0;
